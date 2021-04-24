@@ -1,7 +1,7 @@
 version: '3.7'
 services:
   python:
-    image: feat/python:1.0
+    image: feat_py/python:1.0
     build: ./python
     container_name: 'feat_python'
     working_dir: '/tmp/work'

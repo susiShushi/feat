@@ -1,3 +1,5 @@
-numpy == 1.20.0
-matplotlib == 3.3.4
-pyfeat == 0.3.7
+nibabel == 3.2.1
+nilearn == 0.7.1
+deepdish == 0.3.6
+pandas == 1.1.4
+py-feat == 0.3.7
